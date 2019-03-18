@@ -9,11 +9,11 @@ describe("Block", () => {
     block = Block.mineBlock(lastBlock, data);
   });
 
-  it("sets the `data` to match the input", () => {
+  test("sets the `data` to match the input", () => {
     expect(block.data).toEqual(data);
   });
 
-  it("sets the `lastHash` to match the hash of the last batch", () => {
+  test("sets the `lastHash` to match the hash of the last batch", () => {
     expect(block.lastHash).toEqual(lastBlock.hash);
   });
 });
