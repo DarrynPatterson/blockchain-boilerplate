@@ -17,12 +17,5 @@
   "bugs": {
     "url": "https://github.com/DarrynPatterson/blockchain-boilerplate/issues"
   },
-  "homepage": "https://github.com/DarrynPatterson/blockchain-boilerplate#readme",
-  "devDependencies": {
-    "jest": "^24.5.0",
-    "nodemon": "^1.18.10"
-  },
-  "dependencies": {
-    "crypto-js": "^3.1.9-1"
-  }
+  "homepage": "https://github.com/DarrynPatterson/blockchain-boilerplate#readme"
 }
