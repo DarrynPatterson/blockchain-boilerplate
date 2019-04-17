@@ -18,8 +18,10 @@
 npm install
 ```
 
-## Run
+### Run
 
 ```sh
 npm start
 ```
+
+🙌 Open up your browser to http://localhost:3001/blocks for your current blockchain's information!
